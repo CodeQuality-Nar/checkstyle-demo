@@ -17,6 +17,9 @@ Style files:
 •	google_checks.xml <br>
 https://github.com/checkstyle/checkstyle/tree/master/src/main/resources
 
+http://google.github.io/styleguide/javaguide.html
+
+
 Suppression:
 =================
 Need to to configure in pom.xml
