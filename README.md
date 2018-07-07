@@ -24,3 +24,11 @@ Need to to configure in pom.xml
 checkstyle-suppressions.xml
 
 <a>https://maven.apache.org/plugins/maven-checkstyle-plugin/examples/suppressions-filter.html</a>
+
+Comments
+===============
+Read about maven report checkstyle generation but didnt get.
+
+Used sun checkstyle and modified in this project.
+
+Commented some checks in this project.
